@@ -1,0 +1,2 @@
+.TodoList{display:flex;flex-direction:column;grid-gap:20px;gap:20px;list-style:square;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:24px}.TodoList__item{position:relative;display:block;padding:8px;border-radius:4px;box-shadow:7px 8px 15px -3px rgba(0,0,0,.59);transition:scale .3s linear}.TodoList__item--completed{background-color:#8ef7ba}.TodoList__item--notcompleted{background-color:#f5859e}.TodoList__item:hover{-webkit-transform:scale(1.01);transform:scale(1.01)}
+/*# sourceMappingURL=main.c6914ae1.chunk.css.map */
